@@ -1,2 +1,2 @@
 # pg
-most ofet used scripts here
+most often used scripts here
